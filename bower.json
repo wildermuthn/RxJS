@@ -2,7 +2,7 @@
   "name": "rxjs",
   "version": "2.4.10",
   "main": [
-    "dist/rx.lite.js",
+    "dist/rx.lite.js"
   ],
   "ignore": [
     ".*",
